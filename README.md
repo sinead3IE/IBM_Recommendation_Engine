@@ -7,8 +7,8 @@ Udacity Project with the goal of creating Recommendation Engine using an IBM Wat
 Within this repository, you will find the following: 
 
 * Data Folder containing the main datasets: 
-		* articles_community.csv 
-		* user-item-interactions.csv
+    * articles_community.csv 
+    * user-item-interactions.csv
 
 * Project_tests.py
     * This contains the tests to run within the ipynb file to test the script.
@@ -21,4 +21,4 @@ Within this repository, you will find the following:
         - II. Rank Based Recommendations
         - III. User-User Based Collaborative Filtering
         - IV. Matrix Factorization
-       
+      
